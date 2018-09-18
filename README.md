@@ -1,4 +1,4 @@
-# hospital-informatica-tickets
+# Hospital Maintenance Tickets
 Generates tickets of request for maintenance of computer equipment of a hospital.
 
 Gera tickets de solicitação para manutenção de equipamentos de informática de um hospital.
