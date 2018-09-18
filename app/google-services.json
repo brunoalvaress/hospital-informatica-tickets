@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160546382536",
+    "firebase_url": "https://informaticachamados.firebaseio.com",
+    "project_id": "informaticachamados",
+    "storage_bucket": "informaticachamados.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160546382536:android:b498ea0ba976d216",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.informticasecretariadesadeourobranco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160546382536-rnvonggvotdbb5fr3804f56alket02if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.informticasecretariadesadeourobranco",
+            "certificate_hash": "d47eee85c0b529e4087ff66f9e2f73b0e6f15439"
+          }
+        },
+        {
+          "client_id": "160546382536-u4eai81grkhjlo9dra9ik5cj8u1ljp09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpSaiTrGqvQcp5reHhy9vAs6U9kVjaoLU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160546382536-u4eai81grkhjlo9dra9ik5cj8u1ljp09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
