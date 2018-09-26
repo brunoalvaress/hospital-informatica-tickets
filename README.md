@@ -9,6 +9,7 @@ send their complaints regarding the computer equipment of the hospital and the h
 for a Firebase database, and displayed on the main computer of the computer room, where the trainees and the boss could have
 access at all times.
 
+---
 
 Esse aplicativo foi desenvolvido durante estágio no Hospital Raimundo Campos - Ouro Branco, Minas Gerais, Brasil. O objetivo principal foi
 poupar gastos com conta telefônica redirecionados ao setor de tecnologia de informação do Hospital. Com esse aplicativo os funcionários podem
