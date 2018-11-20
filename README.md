@@ -1,7 +1,7 @@
 # Aplicativo para solicitação ao setor de T.I da Secretaria de Saúde de Ouro Branco - Minas Gerais
 
 
-Esse aplicativo foi desenvolvido durante estágio no Hospital Raimundo Campos - Ouro Branco, Minas Gerais, Brasil. O objetivo principal foi
+Esse aplicativo foi desenvolvido durante estágio no Hospital Raimundo Campos - Ouro Branco, Minas Gerais, onde o objetivo principal foi
 poupar gastos com conta telefônica redirecionados ao setor de tecnologia de informação do Hospital. 
 
 Com esse aplicativo os funcionários podem enviar suas reclamações a respeito dos equipamentos de informática do hospital e dos postos de saúde da cidade, onde serão lidas, armazenadas e posteriormente estarão a disposição para consultas e mapeamentos.
