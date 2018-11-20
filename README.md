@@ -1,18 +1,26 @@
-# Hospital Maintenance Tickets
-Generates tickets of request for maintenance of computer equipment of a hospital.
+# Aplicativo para solicitação ao setor de T.I da Secretaria de Saúde de Ouro Branco - Minas Gerais
 
-Gera tickets de solicitação para manutenção de equipamentos de informática de um hospital.
-
-This application was developed during an internship at Raimundo Campos Hospital - Ouro Branco, Minas Gerais, Brazil. The main objective was to
-to save telephone bill expenses redirected to the Hospital's information technology sector. With this application employees can
-send their complaints regarding the computer equipment of the hospital and the health posts of the city. Complaints are sent
-for a Firebase database, and displayed on the main computer of the computer room, where the trainees and the boss could have
-access at all times.
-
----
 
 Esse aplicativo foi desenvolvido durante estágio no Hospital Raimundo Campos - Ouro Branco, Minas Gerais, Brasil. O objetivo principal foi
-poupar gastos com conta telefônica redirecionados ao setor de tecnologia de informação do Hospital. Com esse aplicativo os funcionários podem
-enviar suas reclamações a respeito dos equipamentos de informática do hospital e dos postos de saúde da cidade. As reclamações são enviadas
-para um banco de dados do Firebase, e exibidas no computador principal da sala da informática, onde os estagiários e o chefe pudessem ter 
-acesso a todo o momento.
+poupar gastos com conta telefônica redirecionados ao setor de tecnologia de informação do Hospital. 
+
+Com esse aplicativo os funcionários podem enviar suas reclamações a respeito dos equipamentos de informática do hospital e dos postos de saúde da cidade, onde serão lidas, armazenadas e posteriormente estarão a disposição para consultas e mapeamentos.
+
+## Tecnologias Usadas
+
+- Android Studio 3.1
+- Firebase Realtime Database
+
+## Requisito
+
+- Celular com o sistema operacional Android 
+
+## Instalação
+
+1. É necessário realizar o clone do projeto para a pasta desejada, utilizando o comando:  `git clone https://github.com/brunoalvaress/hospital-informatica-tickets.git`
+2. No link https://firebase.google.com é necessário criar uma conta, após isso, efetuar o login e criar um banco de dados utilizando a ferramenta Realtime Database
+3. Configure o código do projeto clonado para que reconheça o banco de dados criado anteriormente
+
+## Utilização 
+
+O aplicativo pode ser usado para enviar todas as informações preenchidas no formulário facilmente para o banco de dados. É necessário preencher todos os campos de reclamação, e assim que clicado em enviar, irá enviar as informações, além de enviar uma data que será gerada automaticamente com o ano, mês, dia e horário da reclamação.
