@@ -24,3 +24,5 @@ Com esse aplicativo os funcionários podem enviar suas reclamações a respeito 
 ## Utilização 
 
 O aplicativo pode ser usado para enviar todas as informações preenchidas no formulário facilmente para o banco de dados. É necessário preencher todos os campos de reclamação, e assim que clicado em enviar, irá enviar as informações, além de enviar uma data que será gerada automaticamente com o ano, mês, dia e horário da reclamação.
+
+![screenshot_2](https://user-images.githubusercontent.com/43390621/48810311-c6c6a680-ed0f-11e8-9025-cf4eb958f6f2.jpg)
